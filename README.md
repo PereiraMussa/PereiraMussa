@@ -1,6 +1,6 @@
-- 👋 Olá, sou Osvaldo
-- 👀 Estou interessado em trabalhar como front-end para qualquer parte do mundo
-- 🌱 Estou estudando javascript e phyton. Caminhando para fullstack
+- 👋 Olá, sou Osvaldo Pereira
+- 👀 Estou interessado em trabalhar como front-end e back-end com Django para qualquer parte do mundo
+- 🌱 Estou estudando javascript e phyton(Django). Caminhando para fullstack
 - 💞️ Habilidades em trabalho em equipe
 - 📫 Procurando parceria neste mundo de tech.
 - ⚡ 😎
